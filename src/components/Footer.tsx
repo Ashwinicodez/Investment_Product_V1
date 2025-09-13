@@ -64,7 +64,6 @@ const Footer: React.FC = () => {
               © 2024 InvestPlatform. All rights reserved.
             </div>
             <div className="text-gray-500 text-xs text-center max-w-md">
-              <strong>Risk Warning:</strong> No guaranteed returns. Capital at risk. 
               Past performance does not predict future results. Seek independent advice.
             </div>
           </div>
