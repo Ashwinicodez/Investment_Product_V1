@@ -22,7 +22,7 @@ const Hero: React.FC = () => {
         </h1>
         
         <p className="text-xl md:text-2xl text-gray-300 mb-12 max-w-2xl mx-auto leading-relaxed">
-          Transparent, tech-driven investing. Results vary, capital at risk.
+          Transparent, tech-driven investing. 
         </p>
         
         <button className="group bg-gradient-to-r from-emerald-500 to-purple-500 text-white px-8 py-4 rounded-full text-lg font-semibold transition-all duration-300 hover:scale-105 hover:shadow-xl hover:shadow-purple-500/25 flex items-center mx-auto">
