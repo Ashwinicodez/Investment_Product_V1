@@ -29,10 +29,6 @@ const Hero: React.FC = () => {
           Get Started
           <ArrowRight className="ml-2 w-5 h-5 transition-transform group-hover:translate-x-1" />
         </button>
-        
-        <div className="mt-16 text-sm text-gray-400">
-          <p>No guaranteed returns. Capital at risk.</p>
-        </div>
       </div>
     </section>
   );
